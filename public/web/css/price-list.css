@@ -1,0 +1,141 @@
+.mt-10 {
+  margin-top: 10px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mt-30 {
+  margin-top: 30px;
+}
+.mt-40 {
+  margin-top: 40px;
+}
+.mt-50 {
+  margin-top: 50px;
+}
+.mt-80 {
+  margin-top: 80px;
+}
+.pd-20 {
+  padding: 20px;
+}
+.section-padding {
+  padding: 80px 0;
+}
+.black-table-area {
+  background-color: #1A1B20;
+  color: #fff;
+}
+.small-table-area {
+  background: transparent url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/geometry.png") repeat scroll 0% 0%;
+}
+.section-title {
+  color: #fff;
+  display: inline-block;
+  font-size: 20px;
+  letter-spacing: 0.1rem;
+  padding: 10px 24px;
+  text-transform: uppercase;
+}
+.blue-heading {
+  background-color: #3498db;
+}
+.aqua-heading {
+  background-color: #1abc9c;
+}
+.red-heading {
+  background-color: #fa5137;
+}
+.purple-heading {
+  background-color: #c4394e;
+}
+.box-shadow-mixin {
+  box-shadow: 0px 2px 10px 2px rgba(221, 221, 221, 0.73);
+}
+.black-box-shadow-mixin {
+  box-shadow: 0px 2px 9px 10px rgba(20, 21, 25, 0.78);
+}
+.pricing-button a.btn {
+  color: #fff;
+  letter-spacing: 0.1rem;
+  padding: 12px 55px;
+}
+.pricing-button a.btn:hover {
+  opacity: 0.9;
+}
+.design-credit a {
+  text-decoration: underline;
+  -webkit-text-decoration-style: dotted;
+     -moz-text-decoration-style: dotted;
+          text-decoration-style: dotted;
+}
+.gg-pricing-table .price {
+  font-family: 'Signika', sans-serif;
+}
+.icon-table .single-pricing-table {
+  background: #fff;
+  margin: 15px;
+  padding: 20px;
+  box-shadow: 0px 2px 10px 2px rgba(221, 221, 221, 0.73);
+}
+.icon-table .single-pricing-table .pricing-table-heading h2 {
+  color: #3d6370;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0.1rem;
+  margin-top: 20px;
+  height: 70px;
+  position: relative;
+  width: 100%;
+}
+.icon-table .single-pricing-table .pricing-table-heading h2:after {
+  border: 1px dashed #eee;
+  content: "";
+  left: 0;
+  position: absolute;
+  top: 77px;
+  width: 100%;
+  z-index: 5;
+}
+
+.pricing-icon img {
+  width: auto!important;
+  margin: auto!important;
+}
+
+.icon-table .single-pricing-table .price span {
+  color: #fa5137;
+  font-size: 36px;
+  font-weight: 700;
+}
+.icon-table .single-pricing-table .pricing-item {
+  padding: 20px 0;
+}
+.icon-table .single-pricing-table .pricing-item ul {
+  padding-left: 0;
+  text-align: left;
+  margin: 0 30px;
+}
+.icon-table .single-pricing-table .pricing-item ul li {
+  list-style: none;
+}
+
+.icon-table .single-pricing-table .pricing-item ul li p{
+  font-size: 17px;
+}
+.icon-table .single-pricing-table .pricing-item ul li p strong {
+  color: #325D6A;
+  line-height: 35px;
+  margin-right: 8px;
+  font-size: 17px;
+}
+.icon-table .single-pricing-table .pricing-button {
+  padding: 20px 0;
+}
+.icon-table .single-pricing-table .pricing-button a.btn-pricing {
+  background-color: #fa5137;
+}
+
+.pricing-item .fa-check {
+  color: #1bb1dc;
+}
